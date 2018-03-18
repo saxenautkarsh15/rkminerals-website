@@ -1,0 +1,105 @@
+<html>
+ <head>
+  <img src= "C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Logo.jpg" style="width:100%" align = "center"/>
+  <title> Soap Stone </title>
+ </head>
+ <body>
+
+  <div class="container" >
+  <a href="About.html"> Home </a>
+  <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"> Products </button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="BallClay.html"> Ball/Plastic Clay </a>
+    <a href="Quartz.html"> Quartz </a> 
+    <a href="Pyrophyllite.html"> Pyrophyllite </a>
+    <a href="SoapStonePowder.html"> SoapStone Powder </a>
+    <a href="Products.html"> ...... </a>  
+   </div>
+  </div>
+  <a href="Lab.html"> R&D </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+  <br>
+  <br>
+     <div class="slideshow-container">
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\SoapStone1.jpg" style="width:100%">
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\SoapStone2.jpg" style="width:100%">
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\SoapStone3.jpg" style="width:100%">
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\SoapStone4.jpg" style="width:100%">
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\SoapStoneP1.jpg" style="width:100%">
+     </div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>
+  <span class="dot"></span>
+</div>
+ <script src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\JavaScript\SlideShow1.js">
+ </script>
+ <script src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\JavaScript\DropDown.js">
+ </script>
+ <header>
+  </header>
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu1.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Products.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Home.css">
+
+  <main>
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Products.css">
+   <section>
+    <h2>What it is ?</h2>
+    <article>
+       <p> Soapstone (also known as steatite, or soaprock) is a talc-schist, which is a type of metamorphic rock. 
+       It is largely composed of the mineral talc and is thus rich in magnesium. </p>
+       <p> It is produced by dynamothermal metamorphism and metasomatism. The pure white quality of soapstone after
+       grinding to powder is known as 'French chalk' in trade. </p>
+    </article>
+   </section>
+   <section>
+    <h2>Uses of Soap Stone </h2>
+    <article>
+       <p> It is mainly used for carvmg out pots, bricks. It is employed as linings for various kinds of stoves, ovens 
+       and fireboxes. </p>
+       <p> We Produce and supply a wide range of soapstone at a very competitive price. Bricks made from crushed soapstone,
+       bonded with silicates of soda are used for manufacturing of furnaces in which lead is softened. </p>
+    </article>
+   </section>
+<footer>
+ <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu.css">
+<div class="topnav" id="myTopnav">
+  
+  <a href="About.html"> Home </a>
+  <a href="Products.html"> Products </a>
+  <a href="Lab.html"> Research & Development </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+  <a href="Location.html"> Locate Us </a>
+  <a> Website Designed & Developed by Utkarsh Saxena </a>
+</div>
+
+<img src= "C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Footer.jpg" style="width:100%" align = "center"/>
+</footer>
+  </main>
+ </body>
+</html>

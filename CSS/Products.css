@@ -1,0 +1,70 @@
+@charset "UTF-8";
+article, footer, main, nav, section {
+display : block
+}
+
+html, body, h1, h2, ul, li, a, p,
+article, footer, main, nav, section {
+padding-top: 10px;
+}
+
+.banner {
+background-color: #ff0000; 
+color: ivory; 
+padding: 10px 20px;
+}
+
+body {
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+background-color: #fffff0;
+color: ff571a;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 15px;
+}
+
+h2 {
+margin-left: auto;
+margin-right: auto;
+color: black;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: #e63d00;
+padding: 10px;
+border: 2px white;
+border-radius: 5px;
+}
+
+h1 {
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+color: black;
+background-color: #e63d00;
+padding: 10px;
+border: 2px white;
+border-radius: 5px;
+}
+
+section {
+background-color: #fffff0;
+margin-top: 10px;
+padding 20px;
+color: ff571a;
+}
+
+article {
+background-color: fffff0;
+margin-top: 5px;
+padding: 10px 15px;
+border: 2px solid red;
+border-radius: 5px;
+}  
+
+main {
+width: 1200px;
+} 
+
+

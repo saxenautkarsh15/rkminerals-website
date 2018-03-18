@@ -1,0 +1,35 @@
+/* Required CSS for Pausing Scroller */
+
+div.pausescroller{
+	position: relative;
+	overflow: hidden;
+	z-index: 100;
+}
+
+div.pausescroller > div.innerDiv{
+	position: absolute;
+	will-change: transform;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	z-index: 100;
+}
+
+/*
+	Hack to force iOS browsers to transition elements initially hidden by parent container's overflow:hidden setting
+	Works by creating a pseudo element that pokes out into visible area of parent container:
+*/
+div.pausescroller > div.innerDiv:before{
+	content: '';
+	position: absolute;
+	bottom: 100%;
+	height: 1000px;
+	width: 1px;
+	z-index: -1;
+}
+
+.notransition {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}

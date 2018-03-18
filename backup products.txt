@@ -1,0 +1,120 @@
+<html>
+ <head>
+   <img src= "Images/Logo.jpg" style="width:100%" align = "center"/> 
+   <title> Products </title>
+ </head>
+ <body>
+  <div class="container" >
+  <a href="About.html"> Home </a>
+  <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"> Products </button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="BallClay.html"> Ball/Plastic Clay </a>
+    <a href="Quartz.html"> Quartz </a> 
+    <a href="Pyrophyllite.html"> Pyrophyllite </a>
+    <a href="SoapStonePowder.html"> SoapStone Powder </a>
+    <a href="Products.html"> ...... </a>  
+   </div>
+  </div>
+  <a href="Lab.html"> R&D </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+  <br>
+  <br>
+
+  <div class="slideshow-container">
+
+     <div class="mySlides fade">
+     <img src="Images/BallClay1.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="Images/Mica1.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="Images/Pyrophyllite1.jpg" style="width:100%" >
+     </div>
+     
+     <div class="mySlides fade">
+     <img src="Images/Soapstone1.jpg" style="width:100%" >
+     </div>
+
+
+     <div class="mySlides fade">
+     <img src="Images/SilicaP1.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="Images/MicaP1.jpg" style="width:100%" >
+     </div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+ <script src="SlideShow1.js">
+ </script>
+ <script src="DropDown.js">
+ </script>
+  <header>
+  </header>
+  <link rel="stylesheet" type="text/css" href="Menu.css">
+  <link rel="stylesheet" type="text/css" href="Menu1.css">
+  <link rel="stylesheet" type="text/css" href="Products.css">
+  <link rel="stylesheet" type="text/css" href="Home.css">
+
+  <br>
+
+  <main>
+  <link rel="stylesheet" type="text/css" href="Products.css">
+
+   <section>
+    <h2> What we sell </h2>
+    <article>
+         <p> We are pioneer at selling a lot of products. New products are continuously developed and introduced. 
+         The new product development is based on demand patterns and through market analysis. Our team of quality 
+         experts ensure that all our products are thoroughly inspected right from the mine site to the delivery of 
+         the products to the clients and meet the international standards of quality. We have our 
+         own laboratory installed at our office to conduct the different tests and thus insure the credibility
+         of our products. The various products which we deal with are - </p>
+<p>
+         <a href="Quartz.html"> Quartz </a>
+         <a href="Pyrophyllite.html"> Pyrophyllite </a>
+         <a href="BallClay.html"> Ball/Plastic Clay </a>
+         <a href="MicaPowder.html"> Mica Powder </a>
+         <a href="ChinaClay.html"> China Clay </a>
+         <a href="Calcite.html"> Calcite </a>
+         <a href="DolomitePowder.html"> Dolomite Powder </a>
+         <a href="SoapStonePowder.html"> Soapstone Powder </a>
+</p>
+<br><br><br><br><br><br><br><br><br>
+</article>
+</section>
+<iframe width="100" height="50" left="550" right="550" src="/count.html/counter.php" scrolling="no">
+</iframe>
+<footer>
+ <link rel="stylesheet" type="text/css" href="Menu.css">
+<div class="topnav" id="myTopnav">
+  
+  <a href="About.html"> Home </a>
+  <a href="Products.html"> Products </a>
+  <a href="Lab.html"> Research & Development </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+  <a href="Location.html"> Locate Us </a>
+  <a href="https://www.facebook.com/yash.saxena.1525"> Website Designed & Developed by Utkarsh Saxena </a>
+</div>
+
+<img src= "Images/Footer.jpg" style="width:100%" align = "center">
+</footer>
+  </main>
+ </body>
+</html>

@@ -1,0 +1,116 @@
+<html>
+ <head>
+   <img src= "C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Logo.jpg" style="width:100%" align = "center"/>
+   <title> About Us </title>
+ </head>
+<body>
+  
+  <div class="container" >
+  <a href="About.html"> Home </a>
+  <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"> Products </button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="BallClay.html"> Ball/Plastic Clay </a>
+    <a href="Quartz.html"> Quartz </a> 
+    <a href="Pyrophyllite.html"> Pyrophyllite </a>
+    <a href="SoapStonePowder.html"> SoapStone Powder </a>
+    <a href="Products.html"> ...... </a>  
+   </div>
+  </div>
+  <a href="Lab.html"> R&D </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+
+ <div class="slideshow-container">
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Random1.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Labour1.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Random2.jpg" style="width:100%" >
+     </div>
+     
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Labour2.jpg" style="width:100%" >
+     </div>
+
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Random3.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Labour3.jpg" style="width:100%" >
+     </div>
+
+     <div class="mySlides fade">
+     <img src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Factory\Labour4.jpg" style="width:100%" >
+     </div>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+  <script src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\JavaScript\SlideShow1.js">
+ </script>
+ <script src="C:\Users\Utkarsh\Desktop\RK Minerals\Website\JavaScript\DropDown.js">
+ </script>
+  <header>
+  </header>
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu1.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Products.css">
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Home.css">
+
+
+  <main>
+  <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Products.css">
+   <section>
+    <h2> Where do you find Us </h2>
+    <article>
+         <h1> Registered Office </h1>
+         <p> 12, Vinayak Nagar </p>
+         <p> Bohra Ganesh Ji </p>
+         <p> Udaipur, Rajasthan </p>
+         <p> Mob. No. - 09829161803 (Amit Saxena) </p>
+         <p> E-mail - rkminerals_udr@yahoo.com </p>
+         <p> Facebook Link - </p>
+         <p> LinkedIn Profile - </p>
+    </article>   
+    <article>
+        <a href="Contact1.html"> Other Details </a> 
+        <p></p>    
+        <p></p>      
+    </article>
+   </section>
+<footer>
+ <link rel="stylesheet" type="text/css" href="C:\Users\Utkarsh\Desktop\RK Minerals\Website\CSS\Menu.css">
+<div class="topnav" id="myTopnav">
+  
+  <a href="About.html"> Home </a>
+  <a href="Products.html"> Products </a>
+  <a href="Lab.html"> Research & Development </a>
+  <a href="Gallery.html"> Gallery </a>
+  <a href="Contact.html"> Contact Us </a>
+  <a href="Location.html"> Locate Us </a>
+  <a> Website Designed & Developed by Utkarsh Saxena </a>
+</div>
+
+<img src= "C:\Users\Utkarsh\Desktop\RK Minerals\Website\Images\Footer.jpg" style="width:100%" align = "center"/>
+</footer>
+  </main>
+ </body>
+</html>
